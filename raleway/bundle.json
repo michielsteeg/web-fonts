@@ -1,0 +1,120 @@
+{
+	"name": "Raleway",
+	"resources": {
+		"css": {
+			"font.css": {
+				"url": "font.css"
+			}
+		},
+		"webfonts": {
+			"raleway-thin-webfont.woff": {
+				"url": "raleway-thin-webfont.woff"
+			},
+			"raleway-thin-webfont.woff2": {
+				"url": "raleway-thin-webfont.woff2"
+			},
+			"raleway-thinitalic-webfont.woff": {
+				"url": "raleway-thinitalic-webfont.woff"
+			},
+			"raleway-thinitalic-webfont.woff2": {
+				"url": "raleway-thinitalic-webfont.woff2"
+			},
+			"raleway-extralight-webfont.woff": {
+				"url": "raleway-extralight-webfont.woff"
+			},
+			"raleway-extralight-webfont.woff2": {
+				"url": "raleway-extralight-webfont.woff2"
+			},
+			"raleway-extralightitalic-webfont.woff": {
+				"url": "raleway-extralightitalic-webfont.woff"
+			},
+			"raleway-extralightitalic-webfont.woff2": {
+				"url": "raleway-extralightitalic-webfont.woff2"
+			},
+			"raleway-light-webfont.woff": {
+				"url": "raleway-light-webfont.woff"
+			},
+			"raleway-light-webfont.woff2": {
+				"url": "raleway-light-webfont.woff2"
+			},
+			"raleway-lightitalic-webfont.woff": {
+				"url": "raleway-lightitalic-webfont.woff"
+			},
+			"raleway-lightitalic-webfont.woff2": {
+				"url": "raleway-lightitalic-webfont.woff2"
+			},
+			"raleway-regular-webfont.woff": {
+				"url": "raleway-regular-webfont.woff"
+			},
+			"raleway-regular-webfont.woff2": {
+				"url": "raleway-regular-webfont.woff2"
+			},
+			"raleway-italic-webfont.woff": {
+				"url": "raleway-italic-webfont.woff"
+			},
+			"raleway-italic-webfont.woff2": {
+				"url": "raleway-italic-webfont.woff2"
+			},
+			"raleway-medium-webfont.woff": {
+				"url": "raleway-medium-webfont.woff"
+			},
+			"raleway-medium-webfont.woff2": {
+				"url": "raleway-medium-webfont.woff2"
+			},
+			"raleway-mediumitalic-webfont.woff": {
+				"url": "raleway-mediumitalic-webfont.woff"
+			},
+			"raleway-mediumitalic-webfont.woff2": {
+				"url": "raleway-mediumitalic-webfont.woff2"
+			},
+			"raleway-semibold-webfont.woff": {
+				"url": "raleway-semibold-webfont.woff"
+			},
+			"raleway-semibold-webfont.woff2": {
+				"url": "raleway-semibold-webfont.woff2"
+			},
+			"raleway-semibolditalic-webfont.woff": {
+				"url": "raleway-semibolditalic-webfont.woff"
+			},
+			"raleway-semibolditalic-webfont.woff2": {
+				"url": "raleway-semibolditalic-webfont.woff2"
+			},
+			"raleway-bold-webfont.woff": {
+				"url": "raleway-bold-webfont.woff"
+			},
+			"raleway-bold-webfont.woff2": {
+				"url": "raleway-bold-webfont.woff2"
+			},
+			"raleway-bolditalic-webfont.woff": {
+				"url": "raleway-bolditalic-webfont.woff"
+			},
+			"raleway-bolditalic-webfont.woff2": {
+				"url": "raleway-bolditalic-webfont.woff2"
+			},
+			"raleway-extrabold-webfont.woff": {
+				"url": "raleway-extrabold-webfont.woff"
+			},
+			"raleway-extrabold-webfont.woff2": {
+				"url": "raleway-extrabold-webfont.woff2"
+			},
+			"raleway-extrabolditalic-webfont.woff": {
+				"url": "raleway-extrabolditalic-webfont.woff"
+			},
+			"raleway-extrabolditalic-webfont.woff2": {
+				"url": "raleway-extrabolditalic-webfont.woff2"
+			},
+			"raleway-black-webfont.woff": {
+				"url": "raleway-black-webfont.woff"
+			},
+			"raleway-black-webfont.woff2": {
+				"url": "raleway-black-webfont.woff2"
+			},
+			"raleway-blackitalic-webfont.woff": {
+				"url": "raleway-blackitalic-webfont.woff"
+			},
+			"raleway-blackitalic-webfont.woff2": {
+				"url": "raleway-blackitalic-webfont.woff2"
+			}
+		}
+	}
+}
