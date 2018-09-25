@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Balboa";
+    src: url('../webfonts/balboa-condensed-webfont.woff2') format('woff2'),
+         url('../webfonts/balboa-condensed-webfont.woff') format('woff');
+	font-style: normal;
+	font-stretch: condensed;
+	font-weight: 500;
+}
