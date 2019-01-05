@@ -1,0 +1,42 @@
+{
+	"name": "Work Sans",
+	"resources": {
+		"css": {
+			"font.css": {
+				"url": "font.css"
+			}
+		},
+		"webfonts": {
+			"work-sans-v3-latin-300.woff": {
+				"url": "work-sans-v3-latin-300.woff"
+			},
+			"work-sans-v3-latin-300.woff2": {
+				"url": "work-sans-v3-latin-300.woff2"
+			},
+			"work-sans-v3-latin-500.woff": {
+				"url": "work-sans-v3-latin-500.woff"
+			},
+			"work-sans-v3-latin-500.woff2": {
+				"url": "work-sans-v3-latin-500.woff2"
+			},
+			"work-sans-v3-latin-600.woff": {
+				"url": "work-sans-v3-latin-600.woff"
+			},
+			"work-sans-v3-latin-600.woff2": {
+				"url": "work-sans-v3-latin-600.woff2"
+			},
+			"work-sans-v3-latin-800.woff": {
+				"url": "work-sans-v3-latin-800.woff"
+			},
+			"work-sans-v3-latin-800.woff2": {
+				"url": "work-sans-v3-latin-800.woff2"
+			},
+			"work-sans-v3-latin-regular.woff": {
+				"url": "work-sans-v3-latin-regular.woff"
+			},
+			"work-sans-v3-latin-regular.woff2": {
+				"url": "work-sans-v3-latin-regular.woff2"
+			}
+		}
+	}
+}
