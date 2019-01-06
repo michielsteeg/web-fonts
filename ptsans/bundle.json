@@ -1,0 +1,36 @@
+{
+	"name": "PT Sans",
+	"resources": {
+		"css": {
+			"font.css": {
+				"url": "font.css"
+			}
+		},
+		"webfonts": {
+			"pt-sans-v9-latin-700.woff": {
+				"url": "pt-sans-v9-latin-700.woff"
+			},
+			"pt-sans-v9-latin-700.woff2": {
+				"url": "pt-sans-v9-latin-700.woff2"
+			},
+			"pt-sans-v9-latin-700italic.woff": {
+				"url": "pt-sans-v9-latin-700italic.woff"
+			},
+			"pt-sans-v9-latin-700italic.woff2": {
+				"url": "pt-sans-v9-latin-700italic.woff2"
+			},
+			"pt-sans-v9-latin-italic.woff": {
+				"url": "pt-sans-v9-latin-italic.woff"
+			},
+			"pt-sans-v9-latin-italic.woff2": {
+				"url": "pt-sans-v9-latin-italic.woff2"
+			},
+			"pt-sans-v9-latin-regular.woff": {
+				"url": "pt-sans-v9-latin-regular.woff"
+			},
+			"pt-sans-v9-latin-regular.woff2": {
+				"url": "pt-sans-v9-latin-regular.woff2"
+			}
+		}
+	}
+}
